@@ -70,12 +70,6 @@ streamlit run app.py
 
 ---
 
-## ✨ Demo Screenshot
-
-> *(Add screenshot of Streamlit app UI here)*
-
----
-
 ## 🧠 Future Improvements
 
 - Add emoji and sarcasm handling
